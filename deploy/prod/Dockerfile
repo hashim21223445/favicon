@@ -1,4 +1,4 @@
-FROM node:18.20.8 as server
+FROM node:24.8.0 as server
 
 WORKDIR /app
 COPY ./package.json ./
