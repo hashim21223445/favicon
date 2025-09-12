@@ -1,4 +1,4 @@
-FROM node:24.8.0 as server
+FROM node:24.8.0-trixie-slim as server
 
 WORKDIR /app
 COPY ./package.json ./
