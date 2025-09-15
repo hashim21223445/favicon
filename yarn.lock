@@ -4955,10 +4955,10 @@ human-signals@^2.1.0:
   resolved "https://registry.yarnpkg.com/human-signals/-/human-signals-2.1.0.tgz#dc91fcba42e4d06e4abaed33b3e7a3c02f514ea0"
   integrity sha512-B4FFZ6q/T2jhhksgkbEW3HBvWIfDW85snkQgawt07S7J5QXTk6BkNV+0yAeZrM5QpMAdYlocGoljn0sJ/WQkFw==
 
-ico-to-png@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/ico-to-png/-/ico-to-png-0.2.1.tgz#d159356bbd9cc042670cf6eae80f45fcc729fd75"
-  integrity sha512-wP2Jmsj9ZMxi5fIv3VrcQ9w7vmUu4r6ocfMgeDwoHkzG50sY/LYsZcXEZypaD4FkMdjGQU9klNVzxQMMF6rYBw==
+ico-to-png@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/ico-to-png/-/ico-to-png-0.2.2.tgz#044e4ff28e2dbbdb9676ec39cd03d39666235895"
+  integrity sha512-LzpFSnb3mq5O0/ONXyZKtZPXTS7S8BFM+Ns4NKDLn6WEoDGxLdjRCaapAfcBPYXdE4J3GSp9UBDVWp5eNqOSVg==
   dependencies:
     decode-ico "^0.4.0"
     lodepng "^2.0.0"
