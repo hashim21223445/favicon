@@ -1,4 +1,4 @@
-FROM node:24.8.0-alpine3.22 as server
+FROM node:24.10.0-alpine3.22 as server
 
 WORKDIR /app
 COPY ./package.json ./
